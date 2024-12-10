@@ -1,10 +1,7 @@
-<h1 align="center">Advanced Auth Tutorial 🔒 </h1>
+<h1 align="center">Advanced Authentication 🔒 </h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/pmvEgZC55Cg)
-
-About This Course:
+About This Project:
 
 -   🔧 Backend Setup
 -   🗄️ Database Setup
@@ -27,8 +24,7 @@ About This Course:
 -   🔑 Implementing Login
 -   🏠 Dashboard Page
 -   🔄 Implementing Forgot Password
--   🚀 Super Detailed Deployment
--   ✅ This is a lot of work. Support my work by subscribing to the [Channel](https://www.youtube.com/@asaprogrammer_)
+
 
 ### Setup .env file
 
@@ -56,4 +52,4 @@ npm run build
 npm run start
 ```
 
-### I'll see you in the next one! 🚀
+
